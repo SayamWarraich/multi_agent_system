@@ -43,8 +43,6 @@ Now activate the environment:
 		langgraph_env3\Scripts\activate
 
 
-#### YouTube Tuturial (Hindi) - https://youtu.be/ctHby5vhDqg
-
 ---
 
 # Step 2: Install Dependencies
@@ -151,4 +149,4 @@ Plan a complete 7 days Japan trip including flights, hotels and sightseeing unde
 3. Itinerary Agent creates travel plan
 4. Final Agent combines everything together
 5. PostgreSQL stores conversation memory
-
+# thanks me later sayam
