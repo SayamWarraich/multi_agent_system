@@ -80,7 +80,7 @@ CREATE DATABASE langgraph_memory_demo;
 # Step 5: Setup `.env` File
 
 Create a `.env` file inside the project folder.
-
+# make folder and named tools and add two files taviliy_tool.py and flight_tool.py in it 
 Add the following keys:
 
 GROQ_API_KEY=your_groq_api_key
